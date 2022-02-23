@@ -1,0 +1,1 @@
+Adding new file for conflict in localgit status
